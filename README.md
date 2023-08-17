@@ -2,8 +2,6 @@ Repository for my current work on the protein scaffold filling problem
 
 Main files: 
 - autoencoder.py - implements and tests my denoising convolutional autoencoder
-- lstm.py - implements and tests my LSTM-based models for the protein gap filling problem
-
 
 Dependencies: 
     python 3.9
